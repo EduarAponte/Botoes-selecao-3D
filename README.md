@@ -98,13 +98,13 @@ O principal objetivo do projeto é colocar em prática os conhecimentos em CSS p
 
 # Como Testar
 
-Você pode acessar o projeto [![Netlify Status](https://api.netlify.com/api/v1/badges/e417a718-c0c7-45e3-97a9-a7b79149be7f/deploy-status)](https://botoes-de-selecao-3d.netlify.app/) ou [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&style="border-radius:65px;)](https://github.com/EduarAponte/Animacao-Input)
+Você pode acessar o projeto [![Netlify Status](https://api.netlify.com/api/v1/badges/e417a718-c0c7-45e3-97a9-a7b79149be7f/deploy-status)](https://botoes-de-selecao-3d.netlify.app/) ou [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&style="border-radius:65px;)](https://github.com/EduarAponte/Botoes-selecao-3D)
 
 Ou rodar na sua maquina.
 
 ```
 
-git clone https://github.com/EduarAponte/Animacao-Input.git
+git clone https://github.com/EduarAponte/Botoes-selecao-3D.git
 
 ```
 
