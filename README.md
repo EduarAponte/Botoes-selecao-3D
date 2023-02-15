@@ -110,7 +110,7 @@ git clone https://github.com/EduarAponte/Botoes-selecao-3D.git
 
 ### Assitir o tutorial
 
-<a href="https://youtu.be/598xAcAEhOE" target="_blank">
+<a href="https://youtu.be/ljY82rmSRyU" target="_blank">
   <img src="assets/to_readme/play.png" 
   alt="Assistir Tutorial no YouTube" width="25%" height="25%" />
 </a>
